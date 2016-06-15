@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">IncomingCall</string>
 
-    <string name="hello">Hello World!</string>
-    <string name="title">Hello Notification!</string>
-    <string name="notification_posted">Notification posted</string>
+    <string name="title">This is title!</string>
+    <string name="status">This is status</string>
+    <string name="button">Do action</string>
+    <string name="notification_posted">HERÄÄ PAHVI!!</string>
 </resources>

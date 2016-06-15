@@ -8,8 +8,22 @@
     tools:deviceIds="wear">
 
     <TextView
-        android:id="@+id/text"
+        android:id="@+id/textTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello" />
+        android:text="@string/title" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/status"
+        android:id="@+id/textStatus" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button"
+        android:id="@+id/button"
+        android:singleLine="true" />
+
 </LinearLayout>
