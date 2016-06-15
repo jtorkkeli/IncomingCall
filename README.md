@@ -1,3 +1,3 @@
 # IncomingCall
 
-Android application that detects incoming call and send the number to configured http-address
+Android application that detects incoming call and sends the number to configured http-address
