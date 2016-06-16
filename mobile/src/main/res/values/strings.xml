@@ -6,6 +6,11 @@
     <string name="my_url">"www.my-domain.net/cgi-bin/incoming.php"</string>
     <string name="my_get_key">"number"</string>
     <string name="title_activity_activity_incoming_call">ActivityIncomingCall</string>
-    <string name="notification_title">Nootti</string>
-    <string name="notification_text">Nootti teksti!</string>
+    <string name="notification_title">Notification title</string>
+    <string name="notification_text">Text for the notification</string>
+    <string name="dialog_title">Dialog Title</string>
+    <string name="dialog_message">Click yes to exit!</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="toast_message">"My Toast. Incoming Number : "</string>
 </resources>

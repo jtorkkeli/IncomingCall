@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 /**
- * Created by juha.torkkeli on 15.6.2016.
+ * Created by on 15.6.2016.
  */
 public class ShowNotificationDetailActivity extends Activity {
     @Override
