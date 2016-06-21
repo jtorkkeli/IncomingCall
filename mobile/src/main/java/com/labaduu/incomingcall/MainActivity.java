@@ -9,6 +9,8 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.support.v4.app.NotificationCompat;
+import android.support.v4.app.NotificationCompat.WearableExtender;
+import android.support.v4.app.NotificationManagerCompat;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -37,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
 
         NotificationManager notificationManager = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
         notificationManager.notify(0, notification);
-
 
         /*********** Create alert ***********/
         AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(
